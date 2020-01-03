@@ -18,3 +18,8 @@ p {
 body {
   font-family: "Ibarra Real Nova", serif;
 }
+
+h3 {
+  text-align: right;
+  margin-right: 1.66%;
+}
